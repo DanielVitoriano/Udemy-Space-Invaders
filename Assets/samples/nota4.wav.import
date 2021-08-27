@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/nota4.wav-abbd4fc16ce75936005d4c6ab1e16e4f.sample"
+
+[deps]
+
+source_file="res://Assets/samples/nota4.wav"
+dest_files=[ "res://.import/nota4.wav-abbd4fc16ce75936005d4c6ab1e16e4f.sample" ]
+
+[params]
+
+force/8_bit=true
+force/mono=true
+force/max_rate=true
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

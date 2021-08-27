@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/alien_explosion.wav-07cc5d3c145248f2906e926c13c9f51b.sample"
+
+[deps]
+
+source_file="res://Assets/samples/alien_explosion.wav"
+dest_files=[ "res://.import/alien_explosion.wav-07cc5d3c145248f2906e926c13c9f51b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
