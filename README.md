@@ -7,6 +7,7 @@ COMANDOS | AÇÂO
 "A" e "D"| Alterar letras
 "Space"  | Disparo
 "Space"  | Selecionar letra
-
-<a href="si.PNG" /a>
-<a href="si.gif" /a>
+<p align="center">
+<img src="si.PNG" />
+<img src="si.gif" />
+<p/>
